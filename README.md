@@ -1,6 +1,6 @@
 # 🚦 Arduino RGB LED - Project Sederhana
 
-Project sederhana menggunakan **Arduino Uno** dan **LED RGB (common anode)** untuk menghasilkan efek lampu merah, hijau, dan biru yang menyala bergantian.
+Project sederhana menggunakan **Arduino Uno** dan **LED RGB (common anode)** untuk menghasilkan efek lampu merah, hijau, dan biru yang menyala bergantian. [Jalankan langsung di Wokwi](https://wokwi.com/projects/437798181425114113)
 
 Cocok untuk pemula yang ingin belajar:
 - Cara menggunakan LED RGB
@@ -87,6 +87,9 @@ void setColor(int red, int green, int blue) {
 2. Buka file `.ino` di Arduino IDE
 3. Pilih board dan port yang sesuai
 4. Upload kode ke Arduino
+
+
+
 
 ## 📫 Contact Me
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://luddinritonga.github.io/fortopolio/)
