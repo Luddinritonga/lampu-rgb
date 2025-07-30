@@ -2,7 +2,7 @@
 
 Project sederhana menggunakan **Arduino Uno** dan **LED RGB (common anode)** untuk menghasilkan efek lampu merah, hijau, dan biru yang menyala bergantian. [Jalankan langsung di Wokwi](https://wokwi.com/projects/437798181425114113)
 
-Cocok untuk pemula yang ingin belajar:
+Cocok untuk pemula yang ingin belajar: [Tonton tutorial di YouTube](https://youtu.be/abcdefghijk)
 - Cara menggunakan LED RGB
 - Konsep **common anode vs common cathode**
 - Dasar **PWM (analogWrite)** di Arduino
@@ -96,4 +96,4 @@ void setColor(int red, int green, int blue) {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luddinritonga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luddinritonga03@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nama_channel_anda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luddin-ritonga-727920307?)
